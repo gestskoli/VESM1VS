@@ -4,7 +4,7 @@
 Búðu til í Github Repository vefsíðu (Verkefni 6) í Wiki sem inniheldur eftirfarandi fyrir lið 6.1  og lið 6.2
 
 * svör við spurningum.
-* tengla á 3D Tinkercad lausnir.
+* tengla á Tinkercad lausnir + skjávideo.
 * tengla á myndbönd af verklegum verkefnum.
 
 
