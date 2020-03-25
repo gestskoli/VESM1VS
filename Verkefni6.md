@@ -43,11 +43,11 @@ og [Transistors](https://www.instructables.com/lesson/Transistors/) og svaraðu 
 1. Svaraðu eftirfarandi spurningum:
 
    1. Afhverju er heppilegt að nota rafþéttir með servo motor?
-   1. Hver er munurinn á batterí og rafþéttir (capacitor)?
+   1. Hver er munurinn á rafhlöðu og rafþétti (capacitor)?
    1. Nefndu dæmi um i hvaða tilfellum eftirfarandi mótorgerðir væru notaðar: 
         1. Hefðbundinn DC mótor.
-        1. Skrefmótor.
-        1. Stýrimótor.
+        1. Skrefmótor (e. stepper motor).
+        1. Stýrimótor (e. servo motor).
    1. Hvað snýst servo motor margar gráður þegar hár púls (e. pulse) varir í 1.5 millisekúndur?
   
 ## Námsmat og skil
