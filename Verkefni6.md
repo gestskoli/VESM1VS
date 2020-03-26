@@ -33,7 +33,7 @@ og [Transistors](https://www.instructables.com/lesson/Transistors/) og svaraðu 
 1. Kynntu þér rafþétta (e. capasitors):
    * [Circuit Playground: C is for Capacitor](https://learn.adafruit.com/circuit-playground-c-is-for-capacitor/video)
    * [Myndbandsfyrirlestur frá kennara](https://www.youtube.com/watch?v=XOumiF_F8ww&feature=youtu.be)
-   * [Vefrein á ensku](https://www.instructables.com/lesson/Capacitors-2/)
+   * [Vefgrein á ensku](https://www.instructables.com/lesson/Capacitors-2/)
 
 1. Fylgdu [Lesson 14. Servo Motors](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors) og settu hann upp í:
 
